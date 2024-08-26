@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-(https://portifolio-ten-pi-41.vercel.app/)
+![image](https://portifolio-ten-pi-41.vercel.app/)
 
 ## Ferramentas utilizadas:
 
